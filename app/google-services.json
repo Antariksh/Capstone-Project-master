@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "732086448965",
+    "project_id": "firebase-wallypaper"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732086448965:android:245b4fa64bb5194d",
+        "android_client_info": {
+          "package_name": "com.antariksh.wallypaper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHpQ9IZtjBofPCrfySHpFzVSNOGRbTulo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-90699615-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -7,7 +7,7 @@ import retrofit2.http.GET;
 import retrofit2.http.Query;
 
 /**
- * Created by Ahmed Talaat on 09-Apr-16.
+ * Created by Antariksh
  */
 public interface ColourloversService {
 

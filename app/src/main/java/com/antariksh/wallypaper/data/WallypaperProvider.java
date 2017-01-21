@@ -15,7 +15,7 @@ import net.simonvt.schematic.annotation.Table;
 import net.simonvt.schematic.annotation.TableEndpoint;
 
 /**
- * Created by Ahmed Talaat on 09-Apr-16.
+ * Created by Antariksh
  */
 @ContentProvider(authority = WallypaperProvider.AUTHORITY, database = WallypaperProvider.PatternDatabase.class)
 public class WallypaperProvider {

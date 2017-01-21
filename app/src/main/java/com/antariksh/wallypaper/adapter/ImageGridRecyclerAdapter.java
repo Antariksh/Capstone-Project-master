@@ -23,7 +23,7 @@ import butterknife.Bind;
 import butterknife.ButterKnife;
 
 /**
- * Created by Ahmed Talaat on 09-Apr-16.
+ * Created by Antariksh 
  */
 public class ImageGridRecyclerAdapter extends CursorRecyclerAdapter<RecyclerView.ViewHolder> {
     Context context;

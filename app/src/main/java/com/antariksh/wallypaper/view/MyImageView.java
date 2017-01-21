@@ -19,7 +19,7 @@ import com.squareup.picasso.Picasso;
 import com.squareup.picasso.Target;
 
 /**
- * Created by Ahmed Talaat on 16-Apr-16.
+ * Created by Antariksh
  */
 public class MyImageView extends ImageView implements Target {
     public BitmapDrawable bitmapDrawable;

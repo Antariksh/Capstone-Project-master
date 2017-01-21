@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Ahmed Talaat on 09-Apr-16.
+ * Created by Antariksh
  */
 public class PatternModel implements Parcelable {
 

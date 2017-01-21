@@ -6,7 +6,7 @@ import com.google.android.gms.analytics.GoogleAnalytics;
 import com.google.android.gms.analytics.Tracker;
 
 /**
- * Created by Ahmed Talaat on 18-Apr-16.
+ * Created by Antariksh
  */
 public class BaseApplication extends Application {
     private Tracker mTracker;

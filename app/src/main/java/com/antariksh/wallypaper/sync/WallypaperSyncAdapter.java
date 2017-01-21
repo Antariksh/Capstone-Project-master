@@ -27,7 +27,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 /**
- * Created by Ahmed Talaat on 09-Apr-16.
+ * Created by Antariksh
  */
 public class WallypaperSyncAdapter extends AbstractThreadedSyncAdapter {
     public final String LOG_TAG = WallypaperSyncAdapter.class.getSimpleName();

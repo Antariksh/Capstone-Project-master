@@ -4,7 +4,7 @@ import android.os.Parcel;
 import android.os.Parcelable;
 
 /**
- * Created by Ahmed Talaat on 09-Apr-16.
+ * Created by Antariksh.
  */
 public class AuthorModel implements Parcelable {
     private String userName;
